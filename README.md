@@ -10,3 +10,11 @@ JavaScript – Basic interactivity.
 
 ---
 
+## ⭐ Support
+If you find this repository helpful then:
+
+-- Give it a ⭐
+- Share it with your friends
+- Feel free to explore, fork, and contribute. Let's grow together! 😊
+
+---
