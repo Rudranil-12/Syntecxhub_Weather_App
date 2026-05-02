@@ -5,7 +5,7 @@ This is my fourth project for my internship. It is a "Weather" Web Application d
 
 ## 🛠️ Technologies Used
 - HTML5 – Structure of the webpage.
-CSS3 – Styling and layout.
+- CSS3 – Styling and layout.
 JavaScript – Basic interactivity.
 
 ---
